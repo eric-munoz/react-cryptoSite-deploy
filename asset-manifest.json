@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-cryptoSite-deploy/static/css/main.6239bba6.css",
+    "main.js": "/react-cryptoSite-deploy/static/js/main.a4ccd981.js",
+    "static/media/cryptocurrency3.png": "/react-cryptoSite-deploy/static/media/cryptocurrency3.ec6a2696c1e9be8d46a4.png",
+    "index.html": "/react-cryptoSite-deploy/index.html",
+    "main.6239bba6.css.map": "/react-cryptoSite-deploy/static/css/main.6239bba6.css.map",
+    "main.a4ccd981.js.map": "/react-cryptoSite-deploy/static/js/main.a4ccd981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6239bba6.css",
+    "static/js/main.a4ccd981.js"
+  ]
+}
