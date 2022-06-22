@@ -6,7 +6,7 @@ import { cryptoApi } from './cryptoApi';
 const cyrptoNewsHeaders = {
     'X-BingApis-SDK': 'true',
     'X-RapidAPI-Host': 'bing-news-search1.p.rapidapi.com',
-    'X-RapidAPI-Key': '6d9de3db78mshe4e9ca9346147a4p1c4897jsn54d0b87a9a39'
+    'X-RapidAPI-Key': process.env.REACT_APP_API_KEY
   }
 
   const baseUrl = 'https://bing-news-search1.p.rapidapi.com';
